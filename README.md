@@ -41,7 +41,6 @@ You should see:
 $ ruby hello_world.rb
 Hello World!
 ```
-
 ### Running Learn
 
 Confirm everything is working by running the `learn` command.
@@ -59,3 +58,10 @@ Submit your solution with `learn submit` and this lab is done, but your adventur
 _[Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world) based on a 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version._
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/hello-world-ruby' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
+
+cd hello_world.rb
+learn
+learn
+
+cd .learn
+pwc
